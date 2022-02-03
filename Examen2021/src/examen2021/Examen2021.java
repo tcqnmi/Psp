@@ -39,7 +39,6 @@ public class Examen2021 {
         
         while(true){
         
-          
             char c = teclado.nextLine().toLowerCase().trim().charAt(0);
             if(c == 'a'){
                 nave.sacarDelDeposito();

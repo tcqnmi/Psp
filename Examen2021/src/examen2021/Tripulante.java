@@ -15,14 +15,7 @@ public class Tripulante extends Thread{
     
         this.n1 = nave;
     }
-        
-    public void respirar(){
-        
-        
-       
-       
-    }
-    
+
     @Override
     public void run(){
         
